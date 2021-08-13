@@ -1,0 +1,21 @@
+body {
+    background: url(/images/car.jpg) center center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 170px;
+}
+
+.row {
+    padding: 10px;
+    background-color: white;
+    color: black;
+}
+
+li {
+    float: left;
+    padding-right: 13px;
+}
+
+.active {
+    color: orange;
+}
